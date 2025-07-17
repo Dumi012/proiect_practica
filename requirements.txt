@@ -1,0 +1,6 @@
+selenium
+pyodbc
+schedule
+webdriver-manager
+pandas
+matplotlib
