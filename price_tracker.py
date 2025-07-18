@@ -17,9 +17,9 @@ PRODUCT_URLS = [
 ]
 
 # Email configuration (edit these values)
-EMAIL_SENDER = 'frasiladimitrie44@gmail.com'
-EMAIL_PASSWORD = 'hcegnifdqksfcort'
-EMAIL_RECIPIENT = 'imuducinalisarf@gmail.com'
+EMAIL_SENDER = 'example44@gmail.com'
+EMAIL_PASSWORD = 'example'
+EMAIL_RECIPIENT = 'example@gmail.com'
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587  # Usually 587 for TLS
 
